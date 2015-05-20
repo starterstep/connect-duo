@@ -9,5 +9,5 @@
   },
   "dependencies": {
     "sync-exec": "^0.5.0"
-  },
+  }
 }
