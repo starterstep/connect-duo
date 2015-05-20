@@ -1,0 +1,13 @@
+{
+  "name": "connect-duo",
+  "version": "0.1.0",
+  "description": "middleware for compiling duo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com/starterstep/connect-duo.git"
+  },
+  "dependencies": {
+    "sync-exec": "^0.5.0"
+  },
+}
